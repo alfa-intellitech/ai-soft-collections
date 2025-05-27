@@ -1,8 +1,7 @@
-## Skype
-
-- **Description**: Skype is a telecommunications application specializing in providing video chat, voice calls, messaging, and file sharing services over the Internet.
-- **Website**: [Skype](https://www.skype.com)
-- **Download**: [Get Skype](https://www.skype.com/en/get-skype/)
-- **Price**: Free
-- **Operating Systems**: Windows, macOS, Linux, iOS, Android
-- **Tags**: communication, video-chat, messaging
+- **Name**: GitHub Copilot
+  - **Description**: GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It is powered by OpenAI Codex and draws context from comments and code to suggest individual lines and whole functions instantly.
+  - **Website**: [GitHub Copilot](https://github.com/features/copilot)
+  - **Download**: [GitHub Copilot](https://github.com/features/copilot)
+  - **Price**: $10/month per user, with a free plan for students and maintainers of popular open-source projects. See [Pricing Page](https://github.com/features/copilot#pricing).
+  - **Operating Systems**: Cross-platform
+  - **Tags**: AI, code-suggestion, productivity
