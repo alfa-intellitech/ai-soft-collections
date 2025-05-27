@@ -1,7 +1,8 @@
-- **Name**: GitHub Copilot
-  - **Description**: GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It is powered by OpenAI Codex and draws context from comments and code to suggest individual lines and whole functions instantly.
-  - **Website**: [GitHub Copilot](https://github.com/features/copilot)
-  - **Download**: [GitHub Copilot](https://github.com/features/copilot)
-  - **Price**: $10/month per user, with a free plan for students and maintainers of popular open-source projects. See [Pricing Page](https://github.com/features/copilot#pricing).
-  - **Operating Systems**: Cross-platform
-  - **Tags**: AI, code-suggestion, productivity
+## Supabase
+
+- **Description:** Supabase is an open source Firebase alternative that provides a PostgreSQL database with features like Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
+- **Website:** [https://supabase.com](https://supabase.com)
+- **Download:** [Dashboard](https://supabase.com/dashboard)
+- **Pricing:** Free and Paid Plans - [Pricing](https://supabase.com/pricing)
+- **Operating Systems:** Cross-platform, WebApp
+- **Tags:** open source, backend as a service, database management
