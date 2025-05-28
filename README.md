@@ -15,7 +15,7 @@
 - **Tags:** workspace, project management, knowledge management
 
 ### VirtualBox
-- **Description:** VirtualBox is a general-purpose full virtualization software for x86_64 hardware, targeted at laptop, desktop, server, and embedded use. It is a powerful open-source virtualization application for personal and enterprise use.
+- **Description:** VirtualBox is a general-purpose full virtualization software for x86_64 hardware, targeted at laptop, desktop, server, and embedded use. It is a powerful open-source visualization application for personal and enterprise use.
 - **Website Link:** [VirtualBox](https://www.virtualbox.org/)
 - **Download Link:** [Download Here](https://www.virtualbox.org/wiki/Downloads)
 - **Price:** Free
@@ -29,3 +29,11 @@
 - **Price:** Free
 - **Operating Systems:** Cross-platform
 - **Tags:** 3D modeling, animation, open-source
+
+### Postman
+- **Description:** Postman is a collaboration platform for API development. It is used by developers to simplify the process of building APIs by providing tools to design, test, debug, and document APIs.
+- **Website Link:** [Postman](https://www.postman.com/)
+- **Download Link:** [Download Here](https://www.postman.com/downloads/)
+- **Price:** Free with paid plans available at [Postman Pricing](https://www.postman.com/pricing/)
+- **Operating Systems:** Windows, macOS, Linux
+- **Tags:** API development, collaboration, testing
