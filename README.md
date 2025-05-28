@@ -22,3 +22,10 @@
 - **Operating Systems:** Windows, macOS, Linux
 - **Tags:** virtualization, open-source, cross-platform
 
+### Blender
+- **Description:** Blender is a free and open-source 3D creation suite that supports the entirety of the 3D pipeline including modeling, sculpting, animation, rigging, VFX, simulation, rendering, compositing, and motion tracking.
+- **Website Link:** [Blender](https://www.blender.org)
+- **Download Link:** [Download Here](https://www.blender.org/download/)
+- **Price:** Free
+- **Operating Systems:** Cross-platform
+- **Tags:** 3D modeling, animation, open-source
