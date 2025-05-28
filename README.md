@@ -35,5 +35,5 @@
 - **Website Link:** [Postman](https://www.postman.com/)
 - **Download Link:** [Download Here](https://www.postman.com/downloads/)
 - **Price:** Free with paid plans available at [Postman Pricing](https://www.postman.com/pricing/)
-- **Operating Systems:** Windows, macOS, Linux
+- **Operating Systems:** Windows, macOS, Linux, WebApp
 - **Tags:** API development, collaboration, testing
