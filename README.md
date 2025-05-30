@@ -8,6 +8,14 @@
 - **Operating Systems:** Windows, macOS, Linux, iOS, Android, WebApp
 - **Tags:** Password Manager, Security, Open-source
 
+### Krita
+- **Description:** Krita is an open-source painting software designed for illustrators, concept artists, and comic creators. It has a powerful brush engine for creating art.
+- **Website Link:** [krita.org](https://krita.org/)
+- **Download Link:** [krita.org/en/download/krita-desktop/](https://krita.org/en/download/krita-desktop/)
+- **Price:** Free
+- **Operating Systems:** Windows, macOS, Linux
+- **Tags:** Digital Art, Illustration, Open-source
+
 ### Microsoft Azure
 - **Description:** Microsoft Azure is a cloud platform offering a wide range of cloud computing services.
 - **Website Link:** [azure.microsoft.com](https://azure.microsoft.com/)
@@ -23,11 +31,3 @@
 - **Price:** Free
 - **Operating Systems:** Windows, macOS, Linux
 - **Tags:** video recording, live streaming, open source
-
-### Krita
-- **Description:** Krita is an open-source painting software designed for illustrators, concept artists, and comic creators. It has a powerful brush engine for creating art.
-- **Website Link:** [krita.org](https://krita.org/)
-- **Download Link:** [krita.org/en/download/krita-desktop/](https://krita.org/en/download/krita-desktop/)
-- **Price:** Free
-- **Operating Systems:** Windows, macOS, Linux
-- **Tags:** Digital Art, Illustration, Painting
