@@ -1,5 +1,13 @@
 ### Software Collection
 
+### Bitwarden
+- **Description:** Bitwarden is an open-source, end-to-end encrypted password manager that helps you securely store and access your login credentials.
+- **Website Link:** [bitwarden.com](https://bitwarden.com)
+- **Download Link:** [bitwarden.com/download](https://bitwarden.com/download/)
+- **Price:** Free with premium options - [Pricing](https://bitwarden.com/pricing/)
+- **Operating Systems:** Windows, macOS, Linux, iOS, Android, WebApp
+- **Tags:** Password Manager, Security, Open-source
+
 ### Microsoft Azure
 - **Description:** Microsoft Azure is a cloud platform offering a wide range of cloud computing services.
 - **Website Link:** [azure.microsoft.com](https://azure.microsoft.com/)
@@ -9,7 +17,7 @@
 - **Tags:** Cloud Computing, Platform as a Service, Infrastructure as a Service
 
 ### OBS Studio
-- **Description:** Free and open source software for video recording and live streaming. High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
+- **Description:** Free and open-source software for video recording and live streaming. High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
 - **Website Link:** [obsproject.com](https://obsproject.com)
 - **Download Link:** [obsproject.com/download](https://obsproject.com/download)
 - **Price:** Free
