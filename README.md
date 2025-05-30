@@ -1,31 +1,9 @@
-### VLC Media Player
-- **Description:** VLC is a free and open-source multimedia player that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols.
-- **Website Link:** [vlc media player](https://www.videolan.org/vlc/index.html)
-- **Download Link:** [Download Here](https://www.videolan.org/vlc/#download)
-- **Price:** Free
-- **Operating Systems:** Windows, macOS, Linux, Android, iOS
-- **Tags:** multimedia, video player, open-source
+### Azure
 
-### VirtualBox
-- **Description:** VirtualBox is a general-purpose full virtualization software for x86_64 hardware, targeted at laptop, desktop, server, and embedded use. It is a powerful open-source visualization application for personal and enterprise use.
-- **Website Link:** [VirtualBox](https://www.virtualbox.org/)
-- **Download Link:** [Download Here](https://www.virtualbox.org/wiki/Downloads)
-- **Price:** Free
-- **Operating Systems:** Windows, macOS, Linux
-- **Tags:** virtualization, open-source, cross-platform
+- **Description:** Azure is a comprehensive cloud computing service created by Microsoft for building, deploying, and managing applications through Microsoft-managed data centers. It offers a wide range of services, including computing, analytics, storage, and networking.
+- **Website Link:** [Azure](https://azure.microsoft.com/en-us)
+- **Download Link:** [Azure Products](https://azure.microsoft.com/en-us/products)
+- **Price:** Free services are available. Detailed pricing can be found at: [Azure Pricing](https://azure.microsoft.com/en-us/pricing/)
+- **Operating Systems:** Cross-platform, WebApp
+- **Tags:** cloud computing, AI, enterprise solutions
 
-### Blender
-- **Description:** Blender is a free and open-source 3D creation suite that supports the entirety of the 3D pipeline including modeling, sculpting, animation, rigging, VFX, simulation, rendering, compositing, and motion tracking.
-- **Website Link:** [Blender](https://www.blender.org)
-- **Download Link:** [Download Here](https://www.blender.org/download/)
-- **Price:** Free
-- **Operating Systems:** Windows, macOS, Linux
-- **Tags:** 3D modeling, animation, open-source
-
-### Postman
-- **Description:** Postman is a collaboration platform for API development. It is used by developers to simplify the process of building APIs by providing tools to design, test, debug, and document APIs.
-- **Website Link:** [Postman](https://www.postman.com/)
-- **Download Link:** [Download Here](https://www.postman.com/downloads/)
-- **Price:** Free with premium plans available. Pricing details: [here](https://www.postman.com/pricing/)
-- **Operating Systems:** Windows, macOS, Linux
-- **Tags:** API development, collaboration, testing
