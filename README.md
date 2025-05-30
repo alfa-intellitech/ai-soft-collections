@@ -9,9 +9,9 @@
 
 ### Figma
 
-- **Description:** Figma is a web-based UI/UX design tool, allowing teams to design, prototype, and collaborate on projects in real-time.
-- **Website Link:** [Figma](https://www.figma.com)
+- **Description:** Figma is a collaborative interface design tool that allows design and development teams to build and refine products together in real-time.
+- **Website Link:** [Figma](https://www.figma.com/)
 - **Download Link:** [Figma Downloads](https://www.figma.com/downloads/)
-- **Price:** Free & Paid options available - [Figma Pricing](https://www.figma.com/pricing/)
-- **OS Compatibility:** WebApp, Windows, macOS, iOS, Android
-- **Tags:** Design, Prototyping, Collaboration
+- **Price:** Free / Paid - [Figma Pricing](https://www.figma.com/pricing/)
+- **Operating Systems:** WebApp
+- **Tags:** Design, Collaboration, Prototyping
