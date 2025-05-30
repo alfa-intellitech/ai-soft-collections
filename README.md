@@ -1,1 +1,6 @@
-IyMgTWljcm9zb2Z0IEF6dXJlCgotICoqRGVzY3JpcHRpb246KiogTWljcm9zb2Z0IEF6dXJlIGlzIGEgY2xvdWQgcGxhdGZvcm0gb2ZmZXJpbmcgYSB3aWRlIHJhbmdlIG9mIGNsb3VkIGNvbXB1dGluZyBzZXJ2aWNlcy4KLSAqKldlYnNpdGUgTGluazoqKiBbQXp1cmVdKGh0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS8pCi0gKipEb3dubG9hZCBMaW5rOioqIFtBenVyZSBQcm9kdWN0c10oaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3Byb2R1Y3RzICkKLSAqKlByaWNlOioqIFBhaWQgbWF5IHZhcmlhdGUgYmFzZWQgb24gc2VydmljZXMgY29zdCB1c2VkLiBEZXRhaWxlZCBwcmljaW5nIGluZm9ybWF0aW9uIGF0IFtBenVyZSBQcmljaW5nXyhodHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvaXJpbmcvUGlhMlNwbGFsIH4pCi0gKipPcGVyYXRpbmcgU3lzdGVtcyAqKiBXZWJBcGoKLSDnIFRhZ3MKiogQ2xvdWQgdGhlIHN5c3RlcQ==
+## Software Collection
+
+| Name | Website | Download | Price | OS | Tags | Description | Source |
+|------|---------|----------|-------|----|------|-------------|--------|
+| Postman | [Website](https://www.postman.com/) | [Download](https://www.postman.com/downloads/) | Free and Paid plans available. [Pricing](https://www.postman.com/pricing/) | Windows, macOS, Linux, WebApp | API, Development, Testing | Postman is a comprehensive API platform for designing, building, and scaling APIs. It allows over 40 million users to consolidate their workflows and improve their API management, making it easier to prototype, document, test, and demo APIs in a collaborative environment. | telegram |
+
