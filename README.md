@@ -15,3 +15,11 @@
 - **Price:** Free
 - **Operating Systems:** Windows, macOS, Linux
 - **Tags:** digital art, painting, open-source
+
+### N8N_IMAP
+- **Description:** N8N_IMAP is a connection configuration for N8N, an automation tool, used to connect to IMAP email accounts.
+- **Website Link:** [N8N](https://n8n.io)
+- **Download Link:** [Download N8N](https://n8n.io/download/)
+- **Price:** Free
+- **Operating Systems:** Windows, macOS, Linux
+- **Tags:** automation, workflow, email
