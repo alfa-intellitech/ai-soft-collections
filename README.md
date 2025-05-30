@@ -24,3 +24,12 @@
 - **Price:** Free and Paid plans available. More pricing info at https://www.notion.so/pricing
 - **Operating Systems:** Windows, macOS, WebApp, iOS, Android
 - **Tags:** productivity, note-taking, project management
+
+### Microsoft Azure
+
+- **Description:** Microsoft Azure is a cloud platform offering a wide range of cloud computing services.
+- **Website Link:** [Azure](https://azure.microsoft.com/)
+- **Download Link:** [Azure Free](https://azure.microsoft.com/en-us/free/)
+- **Price:** Paid - Pricing varies based on services used. Pricing information is available at [Azure Pricing](https://azure.microsoft.com/en-us/pricing/)
+- **Operating Systems:** WebApp
+- **Tags:** Cloud Computing, Platform as a Service, Infrastructure as a Service
