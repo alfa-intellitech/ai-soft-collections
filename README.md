@@ -15,3 +15,12 @@
 - **Price:** Free / Paid - [Figma Pricing](https://www.figma.com/pricing/)
 - **Operating Systems:** WebApp
 - **Tags:** Design, Collaboration, Prototyping
+
+### Notion
+
+- **Description:** Notion is an all-in-one workspace app for note-taking, project management, and task tracking.
+- **Website Link:** [Notion](https://www.notion.so/)
+- **Download Link:** [Notion Desktop](https://www.notion.so/desktop)
+- **Price:** Free and Paid plans available. More pricing info at https://www.notion.so/pricing
+- **Operating Systems:** Windows, macOS, WebApp, iOS, Android
+- **Tags:** productivity, note-taking, project management
